@@ -1,2 +1,2 @@
 # go-bittorrent
- Go Bittorrent
+ Bittorent built with go
